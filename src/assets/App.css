@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body,
+#root,
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+
+}
+
+.App {
+  text-align: center;
+}
+
+#root {
+  width: 100%;
+  height: fit-content;
+  background: #0B2434;
+  padding: 60Px 0;
+}
+
+main {
+  width: 80%;
+  height: auto;
+  padding: 25px;
+  background: #fff;
+  border-radius: 15px;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+main h1 {
+  margin-block: .6rem;
+}
