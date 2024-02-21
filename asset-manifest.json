@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tenzies-react-game/static/css/main.b7816aee.css",
+    "main.js": "/tenzies-react-game/static/js/main.075d1d4b.js",
+    "static/media/dice6.svg": "/tenzies-react-game/static/media/dice6.2a9dfe61d2db2e56967e0206142dd3e0.svg",
+    "index.html": "/tenzies-react-game/index.html",
+    "static/media/dice5.svg": "/tenzies-react-game/static/media/dice5.349ffc0877329f47db8847d5dc8f6e67.svg",
+    "static/media/dice4.svg": "/tenzies-react-game/static/media/dice4.90dd545db653397d9e818d547c21fd0d.svg",
+    "static/media/dice3.svg": "/tenzies-react-game/static/media/dice3.a1519893e402fd5f15bdbdf61b119ba5.svg",
+    "static/media/dice2.svg": "/tenzies-react-game/static/media/dice2.3841f057f71ecab4f4f04c3778794151.svg",
+    "static/media/dice1.svg": "/tenzies-react-game/static/media/dice1.dd35a2af4865a21ad4a6a55c1e9c6f4b.svg",
+    "main.b7816aee.css.map": "/tenzies-react-game/static/css/main.b7816aee.css.map",
+    "main.075d1d4b.js.map": "/tenzies-react-game/static/js/main.075d1d4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7816aee.css",
+    "static/js/main.075d1d4b.js"
+  ]
+}
