@@ -15,7 +15,7 @@ It's a tenzis game that shows you 10 dice randomly with a value between 1 - 6 of
 ### Screenshot
 <img src="src/images/screenshot1.png" width="70%"/>
 
-<img src="src/images/screenshot1.png" width="70%"/>
+<img src="src/images/screenshot2.png" width="70%"/>
 
 ### Getting Started with Create React App
 
